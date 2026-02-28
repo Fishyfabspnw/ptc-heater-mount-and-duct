@@ -35,7 +35,8 @@ Seam: Back
 
 ### Assembly Steps
 
-1. Prep SLM/Laser Cut part by tapping. <img width="1039" height="917" alt="image" src="https://github.com/user-attachments/assets/2e84aacb-9814-4255-a9f9-e11380a2e627" />
+1. Prep SLM/Laser Cut part by tapping. <img width="1039" height="917" alt="image" src="https://github.com/user-attachments/assets/2e84aacb-9814-4255-a9f9-e11380a2e627" /> <img width="969" height="758" alt="image" src="https://github.com/user-attachments/assets/0f2a67a4-1bed-4a92-8195-eb727de31ff8" />
+
 
 2. Implement a 121c thermal cutoff fuse to the power loop. (i used a rivot)
 3. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins. 
