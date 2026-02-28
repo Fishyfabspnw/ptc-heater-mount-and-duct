@@ -7,4 +7,5 @@ Product link: https://www.amazon.com/dp/B07NYX5DKD?ref_=ppx_hzsearch_conn_dt_b_f
 ## Parts
 | Item | Description | Quantity | Supplier / Part # |
 |------|-------------|----------|-------------------|
+| 1 | 6 mm aluminum spacer | 2 | McMaster‑Carr 94868A043 |
 |
