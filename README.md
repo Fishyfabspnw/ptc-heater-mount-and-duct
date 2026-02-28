@@ -7,7 +7,8 @@
 
 ## Contents
 
-* `models/` – STEP, STL, PNG and other CAD exports.
+* `Cad` – STEP CAD exports.
+*  `SLM` – SLM Parts.
 * `BOM.md` – bill of materials with suppliers/part numbers.
 * `docs/` – assembly notes, dimensions, build tips.
 
