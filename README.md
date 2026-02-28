@@ -17,7 +17,7 @@ Never power the heater without proper thermal control and safety protection.
 -BOM (https://github.com/Fishyfabspnw/ptc-heater-mount-and-duct/blob/main/BOM.md#bill-of-materials)
 - High-temp wire (silicone insulated recommended/ or FEP wire)
 - Thermal fuse (REQUIRED!!!)
-- SSR or appropriate switching device (if using AC heater)
+- SSR( Solid State Relay)
 
 ---
 
