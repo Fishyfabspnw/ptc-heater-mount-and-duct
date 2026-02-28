@@ -3,14 +3,68 @@
 <img width="931" height="955" alt="image" src="https://github.com/user-attachments/assets/89f2c3b8-61e8-466b-8d74-0ab8577252d7" />
 <img width="1192" height="974" alt="image" src="https://github.com/user-attachments/assets/7af717a2-d5cf-4ec8-a350-9a6a1f875673" />
 <img width="1229" height="1008" alt="image" src="https://github.com/user-attachments/assets/3daf61a2-3915-47b6-b836-77c8bf0736b8" />
+## Installation Instructions
 
+### ⚠️ Safety Notice
+This mount is intended for use with PTC heaters inside enclosed 3D printers.
+Ensure all wiring is properly insulated and strain-relieved.
+Never power the heater without proper thermal control and safety protection.
+
+---
+
+### Required Hardware
+
+- PTC heater module: [Insert model here]
+- M3 screws (length depends on heater thickness)
+- M3 heat-set inserts (if applicable)
+- High-temp wire (silicone insulated recommended)
+- Thermal fuse (recommended)
+- SSR or appropriate switching device (if using AC heater)
+
+---
+
+### Print Recommendations
+
+Material: ASA / ABS / PA6-CF recommended  
+Do NOT use PLA inside heated chambers.  
+Walls: 4+  
+Infill: 40%+  
+Layer Height: 0.2mm  
+Supports: As required  
+
+---
+
+### Assembly Steps
+
+1. Install heat-set inserts into the mount (if designed for inserts).
+2. Position the PTC heater inside the mounting cavity.
+3. Secure heater using M3 screws — do not overtighten.
+4. Route wiring through the designated strain relief channel.
+5. Mount assembly to printer frame using appropriate hardware.
+6. Verify airflow direction before powering on.
+7. Test heater under supervision and confirm temperature control works properly.
+
+---
+
+### Recommended Operating Limits
+
+- Max chamber temperature: [Insert tested temp]
+- Mount material rating: [Insert material rating]
+- Heater wattage tested: [Insert wattage]
+
+---
+
+### Notes
+
+- Designed for enclosed CoreXY-style printers.
+- Ensure adequate airflow across heater fins.
+- Add a thermal fuse in series for additional safety.
 
 ## Contents
 
 * `Cad` – STEP CAD exports.
 *  `SLM` – SLM Parts.
 * `BOM.md` – bill of materials with suppliers/part numbers.
-* `docs/` – assembly notes, dimensions, build tips.
 
 ## Heater
 
