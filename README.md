@@ -14,9 +14,7 @@ Never power the heater without proper thermal control and safety protection.
 
 ### Required Hardware
 
-- PTC heater module: [Insert model here]
-- M3 screws (length depends on heater thickness)
-- M3 heat-set inserts (if applicable)
+-BOM (https://github.com/Fishyfabspnw/ptc-heater-mount-and-duct/blob/main/BOM.md#bill-of-materials)
 - High-temp wire (silicone insulated recommended)
 - Thermal fuse (recommended)
 - SSR or appropriate switching device (if using AC heater)
