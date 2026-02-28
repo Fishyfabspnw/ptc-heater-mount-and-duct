@@ -8,5 +8,5 @@ Product link: https://www.amazon.com/dp/B07NYX5DKD?ref_=ppx_hzsearch_conn_dt_b_f
 | Item | Description | Quantity | Supplier / Part # |
 |------|-------------|----------|-------------------|
 | 1 | 19 mm stainless steel standoff<br> <img width="632" height="338" alt="image" src="https://github.com/user-attachments/assets/df580243-2882-49f6-9f8a-f4d61dd13cf8" /> | 2 | McMaster‑Carr 94868A043 – https://www.mcmaster.com/94868A043/ |
-|
+| 2 | M5x0.8x8 SHCS <br> <img width="632" height="338" alt="image" src="https://github.com/user-attachments/assets/df580243-2882-49f6-9f8a-f4d61dd13cf8" /> | 2 | McMaster‑Carr 94868A043 – https://www.mcmaster.com/94868A043/ |
 
