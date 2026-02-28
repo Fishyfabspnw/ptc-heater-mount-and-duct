@@ -14,4 +14,4 @@ This mount and duct is designed for the [PTC Heater](https://www.amazon.com/dp/B
 
 ## License
 
-[Choose a license](https://choosealicense.com/) and include it here.
+This project is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. See the `LICENSE` file for details.
