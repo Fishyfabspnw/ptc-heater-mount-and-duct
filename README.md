@@ -1,5 +1,5 @@
 # PTC Heater Mount and Duct
-<img width="1154" height="921" alt="image" src="https://github.com/user-attachments/assets/5ad5f4c5-45f4-4953-bee2-cf2de7a145e6" />
+<img width="1011" height="929" alt="image" src="https://github.com/user-attachments/assets/eb4d1a55-b556-4ea9-9e93-c458869bffc1" />
 <img width="931" height="955" alt="image" src="https://github.com/user-attachments/assets/89f2c3b8-61e8-466b-8d74-0ab8577252d7" />
 <img width="1192" height="974" alt="image" src="https://github.com/user-attachments/assets/7af717a2-d5cf-4ec8-a350-9a6a1f875673" />
 <img width="1229" height="1008" alt="image" src="https://github.com/user-attachments/assets/3daf61a2-3915-47b6-b836-77c8bf0736b8" />
@@ -38,7 +38,7 @@ Seam: Back
 ### Assembly Steps
 
 1. Prep SLM/Laser Cut part by tapping. <img width="1039" height="917" alt="image" src="https://github.com/user-attachments/assets/2e84aacb-9814-4255-a9f9-e11380a2e627" /> <img width="969" height="758" alt="image" src="https://github.com/user-attachments/assets/0f2a67a4-1bed-4a92-8195-eb727de31ff8" />
-2. Implement a 121c thermal cutoff fuse to the power loop. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins, apply boron nitrade paste into the hole and then insert the thermistor. (i drilled and used a rivot, and ring terminal around the rivot then attatched the 121c thermal cutoff fuse to that and bent it so it was making contact with the heater, apply Red RTV sealant here if needed.). <img width="913" height="938" alt="image" src="https://github.com/user-attachments/assets/94c07a57-404a-4abc-8033-70b8cee2222d" />
+2. Implement a 121c thermal cutoff fuse to the power loop. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins, apply boron nitrade paste into the hole and then insert the thermistor. (i drilled and used a rivet, and ring terminal around the rivot then attatched the 121c thermal cutoff fuse to that and bent it so it was making contact with the heater, apply Red RTV sealant here if needed.). <img width="913" height="938" alt="image" src="https://github.com/user-attachments/assets/94c07a57-404a-4abc-8033-70b8cee2222d" />
 4. Apply Boron Nitrade paste into the hole before embedding the thermistor. 
 5. Mount standoff's on the orginal PTC Heater shroud with the M4x8mm SHCS.
 6. Mount the SLM printed duct to the other side of the standoff with the M4x8mm SHCS.
