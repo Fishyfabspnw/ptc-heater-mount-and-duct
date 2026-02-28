@@ -2,7 +2,7 @@
 <img width="1051" height="887" alt="image" src="https://github.com/user-attachments/assets/e8bc1f02-7927-4651-9417-afb90df3f993" />
 <img width="1215" height="967" alt="image" src="https://github.com/user-attachments/assets/fd3598a3-4ce7-4a70-a88f-65d17cff15b6" />
 
-SLM & LASER CUT mount and duct for [heater name/model].
+SLM & LASER CUT mount and duct.
 
 ## Contents
 
@@ -12,7 +12,7 @@ SLM & LASER CUT mount and duct for [heater name/model].
 
 ## Heater
 
-This mount and duct is designed for the [PTC Heater](https://www.amazon.com/dp/B07NYX5DKD?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1).
+This mount and duct is designed for the [PTC Heater](https://www.amazon.com/dp/B07NYX5DKD).
 
 ## License
 
