@@ -35,7 +35,8 @@ Seam: Back
 
 ### Assembly Steps
 
-1. Install heat-set inserts into wire shroud.
+1. Prep SLM/Laser Cut part by tapping. <img width="1039" height="917" alt="image" src="https://github.com/user-attachments/assets/2e84aacb-9814-4255-a9f9-e11380a2e627" />
+
 2. Implement a 121c thermal cutoff fuse to the power loop. (i used a rivot)
 3. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins. 
 4. Apply Boron Nitrade paste into the hole before embedding the thermistor. 
