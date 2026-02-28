@@ -1,0 +1,5 @@
+# Ignore common build artifacts
+*.stl
+*.step
+*.png
+*.zip
