@@ -7,7 +7,7 @@
 
 ### ⚠️ Safety Notice
 This mount is intended for use with PTC heaters inside enclosed 3D printers.
-Ensure all wiring is properly insulated and strain-relieved.
+Ensure all wiring is properly insulated and strain-relieved. (Ensure a thermal cutoff fuse is implemented directly touching the heater)
 Never power the heater without proper thermal control and safety protection.
 
 ---
@@ -15,40 +15,43 @@ Never power the heater without proper thermal control and safety protection.
 ### Required Hardware
 
 -BOM (https://github.com/Fishyfabspnw/ptc-heater-mount-and-duct/blob/main/BOM.md#bill-of-materials)
-- High-temp wire (silicone insulated recommended)
-- Thermal fuse (recommended)
+- High-temp wire (silicone insulated recommended/ or FEP wire)
+- Thermal fuse (REQUIRED!!!)
 - SSR or appropriate switching device (if using AC heater)
 
 ---
 
-### Print Recommendations
+### Print Recommendations For Wire Shroud (High Temp FILAMENTS ONLY!!!)
 
-Material: ASA / ABS / PA6-CF recommended  
+Material: ASA-GF / PPS-CF / NYLON 
 Do NOT use PLA inside heated chambers.  
 Walls: 4+  
-Infill: 40%+  
-Layer Height: 0.2mm  
-Supports: As required  
+Infill: 45%+  
+First Layer Height: 0.25mm
+Layer Height: 0.2mm    
+Seam: Back
 
 ---
 
 ### Assembly Steps
 
-1. Install heat-set inserts into the mount (if designed for inserts).
-2. Position the PTC heater inside the mounting cavity.
-3. Secure heater using M3 screws — do not overtighten.
-4. Route wiring through the designated strain relief channel.
-5. Mount assembly to printer frame using appropriate hardware.
-6. Verify airflow direction before powering on.
-7. Test heater under supervision and confirm temperature control works properly.
+1. Install heat-set inserts into wire shroud.
+2. Implement a 121c thermal cutoff fuse to the power loop. (i used a rivot)
+3. Safely drill a hole through the fins in the PTC-Heater to allow for a thermistor to be placed into the fins. 
+4. Apply Boron Nitrade paste into the hole before embedding the thermistor. 
+5. Mount standoff's on the orginal PTC Heater shroud with the M4x8mm SHCS.
+6. Mount the SLM printed duct to the other side of the standoff with the M4x8mm SHCS.
+7. Mount fan and laser cut Part. (The laser cut part is meant to be sandwiched between the fan and the SLM printed duct)
+8. Mount wire shroud over the front with the M3x45mm SHCS.
+9. Mount the assembly to the extrusion with the M5x8mm SHCS.
 
 ---
 
 ### Recommended Operating Limits
 
-- Max chamber temperature: [Insert tested temp]
-- Mount material rating: [Insert material rating]
-- Heater wattage tested: [Insert wattage]
+- Max chamber temperature: [89c]
+- Heater wattage tested: [250W]
+- Max Heater Temp [121c]
 
 ---
 
