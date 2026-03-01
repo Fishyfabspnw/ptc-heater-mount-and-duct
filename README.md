@@ -14,7 +14,7 @@ Never power the heater without proper thermal control and safety protection.
 
 ### Required Hardware
 
--BOM (https://github.com/Fishyfabspnw/ptc-heater-mount-and-duct/blob/main/BOM.md#bill-of-materials)
+-BOM <(https://github.com/Fishyfabspnw/ptc-heater-mount-and-duct/blob/main/BOM.md#bill-of-materials)>
 - High-temp wire (silicone insulated recommended/ or FEP wire)
 - Thermal fuse (REQUIRED!!!)
 - SSR( Solid State Relay)
